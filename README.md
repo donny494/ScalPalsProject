@@ -1,7 +1,7 @@
 # ScalPalsProject
 CS109 Project: Boss Better Have My Money
 
-Data: A folder containing all the data we used in the python notebooks we are submitting.
+Data: A folder containing all the data we used in the python notebooks we are submitting.   
 
 Notebook Ordering:
 	1.) Scrape.ipynb -> The notebook we used to acquire most of the data from basketball-reference.com
